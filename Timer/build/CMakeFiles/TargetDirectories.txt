@@ -1,0 +1,3 @@
+/home/lyc/cpp_ws/Timer/build/CMakeFiles/timer.dir
+/home/lyc/cpp_ws/Timer/build/CMakeFiles/edit_cache.dir
+/home/lyc/cpp_ws/Timer/build/CMakeFiles/rebuild_cache.dir
